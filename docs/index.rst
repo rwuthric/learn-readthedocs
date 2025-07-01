@@ -5,7 +5,7 @@ Welcome to mycalc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   api
+   api/index
 
 Indices and tables
 ==================
