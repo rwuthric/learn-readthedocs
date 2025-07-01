@@ -1,2 +1,2 @@
 # learn-readthedocs
-Personal repo to get familair with Read the Docs
+Personal repo to get familiar with Read the Docs
